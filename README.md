@@ -5,12 +5,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-tarro-1ab4b5152)
 [![Squarespace](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=squarespace&logoColor=white)](https://tarro.work)
 
-I'm a data engineer with domain knowledge in travel & tourism analytics. My tehnical experience is varied, but a few highlights:
+I'm a data engineer with domain knowledge in travel & tourism analytics, but my interests span other topics such as defense and psychometrics. My approach to data engineering is similar to software engineering, so I have inherited many practices, patterns, and tools from that discipline.
 
-- High performance mobile geolocation algorithms
+My experience is varied, but here are a few highlights:
+
+- High-performance mobile geolocation algorithms
 - Standardizing datasets of multiple origins using [self-made statistical](https://tarro.work/code/the-hannah-montana-problem) methods
 - Organizing and leading multi-month projects involving multiple engineers and stakeholders
-- Building and maintaining data processes with row counts ranging from a few thousand to a few billion records
+- Building and maintaining processes for datasets big and small
+- Building distributed web crawlers
 
 ## Toolkit
 
@@ -35,6 +38,7 @@ I'm a data engineer with domain knowledge in travel & tourism analytics. My tehn
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Orchestration
 
